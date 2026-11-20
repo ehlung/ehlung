@@ -1,7 +1,5 @@
 ## Hi, I'm Yeryeong Kang
 
-[![Velog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ehlung) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehlung.kang@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehlung/)
-
 배움을 즐기는 개발자 강예령입니다.
 하나의 서비스를 깊이 이해하며 만들 때 가장 큰 즐거움을 느낍니다.
 
