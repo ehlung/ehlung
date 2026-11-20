@@ -13,7 +13,9 @@
 ### 🔭 What I'm Working On
 
 - **[MSDS Agent](https://github.com/ehlung/rust-msds-agent)**: 인턴 개인 과제로 시작한 Rust 멀티 에이전트의 공개 버전을 마무리하고 있습니다.
-- **CS**: 운영체제·네트워크·데이터베이스·자료구조를 면접 대비와 함께 다시 정리하고 있습니다.
+- **[기술 블로그](https://velog.io/@ehlung)**: 리빌드 과정과 인턴 기간에 해결한 문제를 정리하고 있습니다.
+- **[DaleStudy](https://github.com/DaleStudy) 9기**: 매주 LeetCode 문제를 풀고 PR로 코드 리뷰를 주고받습니다.
+- **[Pair Study](https://github.com/pair-study)**: 모던 JavaScript를 학습하고 PR 기반으로 JS·React 코드 리뷰를 진행합니다.
 
 <br>
 
@@ -39,13 +41,6 @@
 - 정기공시·거래소공시 파서와 답변 Handler를 구현해 수치 추출, 기업 간 비교, 비율 계산, 정정 공시 추적까지 처리했습니다.
 - 저장소·API 명세·테스트 자동화 초기 구성, HyperCLOVA X 호출 실패 복구, 컨테이너 기반 평가 서버 배포와 운영을 맡았습니다.
 - 대회 기간에 빠르게 만든 구조를 정리하고 개선할 부분을 찾고 있습니다.
-
-<br>
-
-### 🌱 Activities
-
-- **[DaleStudy](https://github.com/DaleStudy) 9기** (2026.11–): 매주 LeetCode 문제를 풀고 PR로 코드 리뷰를 주고받습니다.
-- **[Pair Study](https://github.com/pair-study)** (2026.03–): 모던 JavaScript를 학습하고 PR 기반으로 JS·React 코드 리뷰를 진행합니다.
 
 <br>
 
